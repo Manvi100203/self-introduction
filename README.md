@@ -1,6 +1,6 @@
 # 🎥 Self Introduction – Manvi
 
-Hi! I’m Manvi, a second-year B.Tech Computer Science student specializing in AI & ML at VIT Bhopal.
+Hi! I’m Manvi, a Second-Year B.Tech Computer Science Student specializing in AI & ML at VIT Bhopal.
 
 ---
 
