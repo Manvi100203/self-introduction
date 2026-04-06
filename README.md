@@ -1,13 +1,13 @@
-# 🎥 Self Introduction – Manvi Punia
+# 🎥 Self Introduction – Manvi
 
-Hi! I’m Manvi Punia, a second-year B.Tech Computer Science student specializing in AI & ML at VIT Bhopal.
+Hi! I’m Manvi, a second-year B.Tech Computer Science student specializing in AI & ML at VIT Bhopal.
 
 ---
 
 ## 🚀 About Me
 - 🎓 CGPA: 8.9  
 - 💻 Frontend-Focused Developer & UI/UX Enthusiast  
-- ⚙️ Tech Stack: MERN, Spring Boot, React, Java, Python  
+- ⚙️ Tech Stack: MERN, Spring Boot, React, Java, Python , C++  
 - 🤖 Interests: AI, Machine Learning, Problem Solving  
 
 ---
@@ -55,8 +55,8 @@ A secure healthcare collaboration platform.
 ---
 
 ## 🌍 Open Source Contributions
-- DSC Winter of Code – VIT Bhopal  
-- Android Club Winter of Code – VIT Bhopal  
+- Data Science Winter of Code (DSWoC) – VIT Bhopal  
+- Android Club Winter of Code (ACWoC) – VIT Bhopal  
 
 ---
 
